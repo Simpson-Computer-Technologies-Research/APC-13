@@ -9,7 +9,7 @@
 
 <h3>Prize</h3>
 
-- Whoever develops the best program will win 50$
+- Whoever develops the best program will win 20$
 - I will be using a point system to determine the winner..
 
 
